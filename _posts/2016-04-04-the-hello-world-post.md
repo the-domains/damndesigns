@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The "Hello World" Post!'
-datePublished: '2016-04-04T14:11:19.916Z'
-dateModified: '2016-04-04T14:11:09.755Z'
+datePublished: '2016-04-04T17:56:12.031Z'
+dateModified: '2016-04-04T17:55:50.499Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-04-the-hello-world-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-the-hello-world-post.md
-published: true
 url: the-hello-world-post/index.html
 _type: Article
 
