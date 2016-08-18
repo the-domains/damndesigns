@@ -4,8 +4,15 @@
         <description><![CDATA[Damn Design]]></description>
         <link>https://thegrid.ai/damndesigns/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 13:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 13:47:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/damndesigns/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9e63f70-2ee8-4355-ace6-326ca3d08e7b.jpg">]]></description>
+            <link>https://thegrid.ai/damndesigns/ce2fbebc-7964-416f-b7cd-f00564b1fc58/index.html</link>
+            <guid isPermaLink="false">ce2fbebc-7964-416f-b7cd-f00564b1fc58</guid>
+            <pubDate>Thu, 18 Aug 2016 13:47:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello World!</p>]]></description>
