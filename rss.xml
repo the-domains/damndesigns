@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[damndesigns]]></title>
-        <description><![CDATA[damndesigns]]></description>
+        <title><![CDATA[Damn Design]]></title>
+        <description><![CDATA[Damn Design]]></description>
         <link>https://thegrid.ai/damndesigns/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 17:58:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 13:46:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/damndesigns/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello World!</p>]]></description>
+            <link>https://thegrid.ai/damndesigns/hello-world/index.html</link>
+            <guid isPermaLink="false">3b99ea22-9ddb-44e0-ac36-b1b32f741dff</guid>
+            <pubDate>Thu, 18 Aug 2016 13:46:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The "Hello World" Post!</p>]]></description>
